@@ -1,0 +1,134 @@
+INSERT INTO Brasil (latitude, longitude, estado) 
+VALUES (
+    9.976919, 67.812528, "ACRE"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    9.667500, 35.753559, "ALAGOAS"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    0, 51.070610, "AMAPÁ"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    3.142409, 60.048479, "AMAZONAS"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    12.976564, 38.515330, "BAHIA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    3.722323, 38.531526, "CEARA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    15.803326, 47.895079, "DISTRITO FEDERAL"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    20.322403, 40.341272, "ESPIRITO SANTO"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    16.678874, 49.245553, "GOIANIA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    2.543930, 44.314497, "MARANHAO"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    15.602877, 56.113537, "MATO GROSSO"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    20.459085, 54.645131, "MATO GROSSO DO SUL"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    19.919361, 43.949623, "MINAS GERAIS"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    1.430440, 48.496356, "PARA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    7.134688, 34.896569, "PARAIBA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    25.412456, 49.319688, "PARANA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    8.047977, 34.865021, "PERNAMBUCO"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    5.083167, 42.789940, "PIAUI"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    22.904018, 43.171155, "RIO DE JANEIRO"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    5.782763, 35.216631, "RIO GRANDE DO NORTE"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    30.047082, 51.244518, "RIO GRANDE DO SUL"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    8.760584, 63.880794, "RONDONIA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    2.834102, 60.682977, "RORAIMA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    26.919311, 49.085675, "SANTA CATARINA"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    23.559923, 46.652957, "SAO PAULO"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    10.926615, 37.075952, "SERGIPE"
+);
+
+INSERT INTO Brasil (latitude, longitude, estado)
+VALUES (
+    0.254623, 48.329435, "TOCANTINS"
+);
